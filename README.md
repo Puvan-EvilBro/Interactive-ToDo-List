@@ -66,9 +66,9 @@ They are not automatically synced to other devices or browsers.
 
 ## Author
 
-**Name:** \[Puvan S A N\]\
-**Department:** \[CSE\]\
-**College:** \[Sri Krishna College of Engineering and Technology\]
+**Name:** \Puvan S A N\
+**Department:** \CSE\
+**College:** \Sri Krishna College of Engineering and Technology\
 
 ------------------------------------------------------------------------
 
